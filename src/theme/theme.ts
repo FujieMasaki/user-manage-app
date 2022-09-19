@@ -1,7 +1,7 @@
 import { extendTheme } from "@chakra-ui/react";
 
 const theme = extendTheme({
-  style: {
+  styles: {
     body: {
       backgroundColor: "gray.100",
       color: "gray.800",
